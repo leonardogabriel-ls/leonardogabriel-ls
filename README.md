@@ -6,7 +6,7 @@ Meu nome é Leonardo Gabriel Lima e eu sou estutande de Back-end na [@cubosacade
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-gabriel-547892230/)
 
 
-Hard Skills:
+### 💻 Hard Skills:
 
 ![nodeJs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
