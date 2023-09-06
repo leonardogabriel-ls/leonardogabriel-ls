@@ -1,16 +1,15 @@
-### Hi there 👋
+# Olá pessoal!☺️
 
-<!--
-**leonardogabriel-ls/leonardogabriel-ls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Leonardo Gabriel Lima e eu sou estutande de Back-end na [@cubosacademy](https://cubos.academy/) desde 2023, atualmente estou em transição de carreira para a área dev.
 
-Here are some ideas to get you started:
+### 🎯 para me encontrar:
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-gabriel-547892230/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Hard Skills:
+
+![nodeJs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
