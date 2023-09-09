@@ -13,3 +13,8 @@ Meu nome é Leonardo Gabriel Lima e eu sou estutande de Back-end na [@cubosacade
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+
+### projetos :
+
+![roleta de jogadores](https://github.com/leonardogabriel-ls/roleta-de-jogadores/blob/main/README.md)
