@@ -17,4 +17,4 @@ Meu nome é Leonardo Gabriel Lima e eu sou estutande de Back-end na [@cubosacade
 
 ### projetos :
 
-.[roleta de jogadores](https://github.com/leonardogabriel-ls/roleta-de-jogadores/blob/main/README.md)
+[roleta de jogadores](https://github.com/leonardogabriel-ls/roleta-de-jogadores/blob/main/README.md)
